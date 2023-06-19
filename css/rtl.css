@@ -1,0 +1,7 @@
+body{
+    direction: rtl;
+    text-align: right;
+}
+.list-unstyled{
+    padding-right: 0;
+}
